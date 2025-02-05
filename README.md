@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darya</h1>
 <h3 align="center">A computer science student at University of Tehran.</h3>
 
-- 🌱 I’m currently learning **Category theory, Module theory**
-
 - 📫 How to reach me **daryaansaripour@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
